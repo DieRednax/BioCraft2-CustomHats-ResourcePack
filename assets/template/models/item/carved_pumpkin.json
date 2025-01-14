@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/carved_pumpkin",
+   "overrides": [
+     {"predicate":{"custom_model_data":1}, "model": "custom/federation_of_redfox_hat"}
+   ]
+ }

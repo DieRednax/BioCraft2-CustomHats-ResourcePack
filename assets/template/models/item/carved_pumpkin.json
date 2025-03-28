@@ -2,6 +2,7 @@
     "parent": "minecraft:block/carved_pumpkin",
    "overrides": [
      {"predicate":{"custom_model_data":1}, "model": "custom/federation_of_redfox_hat"},
-     {"predicate":{"custom_model_data":2}, "model": "custom/derednax_beard"}
+     {"predicate":{"custom_model_data":2}, "model": "custom/derednax_beard"},
+     {"predicate":{"custom_model_data":3}, "model": "custom/fake_dragon_egg"}
    ]
  }

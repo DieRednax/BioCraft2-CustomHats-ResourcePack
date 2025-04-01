@@ -3,6 +3,8 @@
    "overrides": [
      {"predicate":{"custom_model_data":1}, "model": "custom/federation_of_redfox_hat"},
      {"predicate":{"custom_model_data":2}, "model": "custom/derednax_beard"},
-     {"predicate":{"custom_model_data":3}, "model": "custom/fake_dragon_egg"}
+     {"predicate":{"custom_model_data":3}, "model": "custom/derednax_beard_2"},
+     {"predicate":{"custom_model_data":4}, "model": "custom/fake_dragon_egg"},
+     {"predicate":{"custom_model_data":5}, "model": "custom/black_face"}
    ]
  }

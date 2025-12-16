@@ -6,6 +6,7 @@
      {"predicate":{"custom_model_data":3}, "model": "custom/derednax_beard_2"},
      {"predicate":{"custom_model_data":4}, "model": "custom/derednax_beard_3"},
      {"predicate":{"custom_model_data":5}, "model": "custom/fake_dragon_egg"},
-     {"predicate":{"custom_model_data":6}, "model": "custom/black_face"}
+     {"predicate":{"custom_model_data":6}, "model": "custom/black_face"},
+     {"predicate":{"custom_model_data":7}, "model": "custom/christmas_hat"}
    ]
  }

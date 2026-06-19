@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "minecraft:model",
+        "model": "template:item/emerald_coin_large"
+    }
+}

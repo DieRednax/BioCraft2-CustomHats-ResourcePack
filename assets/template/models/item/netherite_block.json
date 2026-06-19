@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/netherite_block",
+   "overrides": [
+     {"predicate":{"custom_model_data":1}, "model": "custom/netherite_coin_large"}
+   ]
+ }
